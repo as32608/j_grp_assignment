@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/atulsharma/study_datascience/tensorflow/jbm/img_classifier-0.001-2conv-basic.model"
+all_model_checkpoint_paths: "/Users/atulsharma/study_datascience/tensorflow/jbm/img_classifier-0.001-2conv-basic.model"
